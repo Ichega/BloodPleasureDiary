@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мой Пульс</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Тема</string>
+
+
+
+</resources>

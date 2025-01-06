@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BloodPleasureDiary" parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorSecondary">@color/blue</item>
+    </style>
+
+    <style name="Theme.BloodPleasureDiary" parent="Base.Theme.BloodPleasureDiary" />
+
+    <style name="Theme.BloodPleasureDiary.Pink" parent="Base.Theme.BloodPleasureDiary">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryVariant">@color/pink_dark</item>
+        <item name="colorSecondary">@color/pink</item>
+
+    </style>
+
+    <style name="Theme.BloodPleasureDiary.Blue" parent="Base.Theme.BloodPleasureDiary">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorSecondary">@color/blue</item>
+
+    </style>
+
+    <style name="Theme.BloodPleasureDiary.Green" parent="Base.Theme.BloodPleasureDiary">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorSecondary">@color/green</item>
+
+    </style>
+
+    <style name="Theme.BloodPleasureDiary.Orange" parent="Base.Theme.BloodPleasureDiary">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange_dark</item>
+        <item name="colorSecondary">@color/orange</item>
+
+    </style>
+</resources>
